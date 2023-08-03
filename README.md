@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Strava Explorer
+This project is primarily aimed to act as a learning tool for developing apps with NextJS. What exactly will the app do? Im not entirely sure yet lol, but we will create something worth while.
+
+## Useful Links
+[Strava Developers Site](https://developers.strava.com/)
 
 ## Getting Started
 
